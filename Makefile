@@ -191,6 +191,7 @@ UPROGS=\
 	$U/_pingpong\
 	$U/_sleep\
 	$U/_zombie\
+	$U/_trace\
 
 
 
